@@ -1,5 +1,5 @@
 
-# ' Only Hello World'
+# ' Only Hello World' from main
 print("Hello Wolrd")
 
 # Hello and the given Name
